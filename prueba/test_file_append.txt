@@ -1,5 +1,0 @@
-Estoy sobrescribiendo con cat
-Una nueva prueba sin sobreescribir
-Este texto se va a hacer append con el primer archivo
-
-cat test_file.txt test_file2.txt >> test_file_append.txt
